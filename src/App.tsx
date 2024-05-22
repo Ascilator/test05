@@ -1,6 +1,4 @@
-import { Chart } from "./components/Chart";
-import { Table } from "./components/Table";
-import { Tabs } from "./components/Tabs";
+import { Chart, Table, Tabs } from "./components";
 import { useResDeformationService, useResThermoChainService } from "./services";
 
 function App() {
